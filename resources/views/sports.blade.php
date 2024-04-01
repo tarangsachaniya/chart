@@ -25,8 +25,10 @@
 <body>
     <div class="container">
         <h1 class="text-center">Sports</h1>
+        <hr>
 
         <x-filters />
+        <hr>
         <div class="d-flex justify-content-center">
             <canvas id="myChart"></canvas>
         </div>
